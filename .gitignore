@@ -1,0 +1,6 @@
+wander-client/node_modules/
+wander-strapi/node_modules/
+wander-client/build/
+wander-strapi/.tmp/
+wander-strapi/public/
+*.log
